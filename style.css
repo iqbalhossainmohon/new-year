@@ -216,6 +216,9 @@
     height: 26px;
     margin-bottom: 32px;
 }
+.icons{
+    text-decoration: none;
+}
 
 
 .subscribe {
